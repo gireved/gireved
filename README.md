@@ -96,4 +96,5 @@ Java         33 mins         █░░░░░░░░░░░░░░░░
 Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gireved&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gireved&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gireved&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
