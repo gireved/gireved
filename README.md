@@ -63,24 +63,15 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> 工具和框架
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
+![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 
-</p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 一些统计数据
 
@@ -97,4 +88,3 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gireved&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gireved&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
